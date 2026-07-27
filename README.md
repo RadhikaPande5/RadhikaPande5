@@ -13,27 +13,18 @@
   </p>
 </div>
 
-<br>
-
 <div align="center">
   <h3>⚡ Tech Stack</h3>
-  
   <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express" />
   <br>
-  
   <img src="https://skillicons.dev/icons?i=flask,tailwind,postgresql,mongodb" />
   <br>
-  
   <img src="https://skillicons.dev/icons?i=docker,git,pandas,numpy" />
-  
-  <br><br>
-  
+  <br>
+  <br>
   <i> Creativity compiled, imagination shipped!</i>
 </div>
 
-<br>
-
-<!-- QUOTE -->
 <div align="center">
   <i>
     “Code is like humor. When you have to explain it, it’s bad.” – Cory House
