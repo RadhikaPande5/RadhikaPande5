@@ -3,15 +3,21 @@
   Hi, I'm Radhika Pande
 </h1>
 
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Science+Enthusiast;AI+ML+Learner;Docker+%26+DevOps+Explorer;" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
   <p>
-    <i>On my way to building impactful projects and looking forward to exciting opportunities!</i>
+    <i>On a journey to craft impact, <br> chasing opportunities that inspire.</i>
   </p>
 </div>
+
+<br>
 
 <div align="center">
   <h3>⚡ Tech Stack</h3>
@@ -24,6 +30,8 @@
   <br>
   <i> Creativity compiled, imagination shipped!</i>
 </div>
+
+<br>
 
 <div align="center">
   <i>
