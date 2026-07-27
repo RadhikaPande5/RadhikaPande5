@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>
-    <i>🚀 On my way to building impactful projects and looking forward to exciting opportunities!</i>
+    <i>On my way to building impactful projects and looking forward to exciting opportunities!</i>
   </p>
 </div>
 
