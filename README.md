@@ -21,16 +21,38 @@
 
 <div align="center">
   <h3>⚡ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,express" />
+
+  <!-- Row 1: Languages & Core Backend -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin: 5px; background: #0d1117; border-radius: 8px; padding: 4px;" />
+  </p>
+  
+  <!-- Row 2: Web Frameworks & Databases -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin: 5px; background: #0d1117; border-radius: 8px; padding: 4px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 5px;" />
+  </p>
+  
+  <!-- Row 3: DevOps & Data Science -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 5px;" />
+  </p>
+
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,tailwind,postgresql,mongodb" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,git,pandas,numpy" />
-  <br>
-  <br>
+  
   <i> Creativity compiled, imagination shipped!</i>
 </div>
 
+<br>
 <br>
 
 <div align="center">
